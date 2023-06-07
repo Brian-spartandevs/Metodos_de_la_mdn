@@ -2,6 +2,6 @@
 
 const array1 = [2, 6, 9, 0];
 
-const reversed = array1.reverse();
+array1.reverse();
 
-console.log(reversed);
+console.log(array1);
