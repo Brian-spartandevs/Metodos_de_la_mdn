@@ -7,3 +7,4 @@ const obj = {
 
 console.log(obj.hasOwnProperty("prop1")); // true
 console.log(obj.hasOwnProperty("prop3")); // false
+
