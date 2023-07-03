@@ -13,6 +13,3 @@ console.log(Object.isSealed(obj)); // true
 
 obj.prop1 = "new value";
 console.log(obj.prop1); // 'new value'
-
-delete obj.prop2;
-console.log(obj.prop2); // undefined
